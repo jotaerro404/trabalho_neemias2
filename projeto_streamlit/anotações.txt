@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlibclear
+
+
+python -m streamlit run app.py
